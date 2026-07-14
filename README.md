@@ -12,7 +12,7 @@ I design and build resilient network and cloud infrastructures with a focus on A
 ## 🛠️ Tech Stack
 - **Cloud:** AWS, Azure  
 - **Infra:** Terraform, Ansible, Docker  
-- **Networking:** Cisco, Fortinet, Palo Alto  
+- **Networking:** Cisco, Fortinet, Palo Alto, Meraki   
 - **Languages:** Python, powershell 
 
 ## 📈 Current Goals
