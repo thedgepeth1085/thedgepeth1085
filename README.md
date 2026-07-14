@@ -7,24 +7,25 @@ I design and build resilient network and cloud infrastructures with a focus on A
 - Cloud networking (AWS + Azure)
 - VPC design, Transit Gateway, hybrid networking
 - Enterprise routing, switching, firewalls
-- Terraform IaC for scalable deployments
 - DNS architecture (Azure DNS, Route 53, BIND, Windows DNS)
 
 ## 🛠️ Tech Stack
 - **Cloud:** AWS, Azure  
 - **Infra:** Terraform, Ansible, Docker  
 - **Networking:** Cisco, Fortinet, Palo Alto, Meraki   
-- **Languages:** Python, powershell 
+- **Languages:** Python, PowerShell 
 
 ## 📈 Current Goals
 - AWS Solutions Architect Certification  
 - Growing Designer Technologies LLC  
-- Building cloud‑native automation frameworks
-- Terraform IaC for scalable deployments
+- Building cloud‑native automation frameworks  
+- Terraform IaC for scalable deployments  
 
 ## 📫 Connect With Me
 - Website: designertechnologies.net  
 - Email: info@designertechnologies.net  
+
+---
 
 ## 🔧 Tech & Tools
 
@@ -38,9 +39,9 @@ I design and build resilient network and cloud infrastructures with a focus on A
 
 ---
 
-## 🧱 AWS Networking Showcase (Terraform Example)
+## ☁️ AWS Cloud Showcase
 
-Below is a simple Terraform configuration that provisions an AWS VPC with a public subnet, Internet Gateway, and routing.
+Below is a simple AWS VPC example demonstrating core networking concepts using Terraform:
 
 ```hcl
 provider "aws" {
@@ -80,6 +81,7 @@ resource "aws_route_table_association" "public_assoc" {
   subnet_id      = aws_subnet.public_a.id
   route_table_id = aws_route_table.public_rt.id
 }
+
 
 
 
