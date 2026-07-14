@@ -6,9 +6,8 @@ I design and build resilient network and cloud infrastructures with a focus on A
 ## 🚀 What I Do
 - Cloud networking (AWS + Azure)
 - VPC design, Transit Gateway, hybrid networking
-- Terraform IaC for scalable deployments
 - Enterprise routing, switching, firewalls
-- DNS architecture (Azure DNS, BIND, Windows DNS)
+- DNS architecture (Azure DNS, Route 53, BIND, Windows DNS)
 
 ## 🛠️ Tech Stack
 - **Cloud:** AWS, Azure  
@@ -19,8 +18,8 @@ I design and build resilient network and cloud infrastructures with a focus on A
 ## 📈 Current Goals
 - AWS Solutions Architect Certification  
 - Growing Designer Technologies LLC  
-- Building cloud‑native automation frameworks  
-
+- Building cloud‑native automation frameworks
+-  Terraform IaC for scalable deployments
 ## 📫 Connect With Me
 - Website: designertechnologies.net  
 - Email: info@designertechnologies.net  
