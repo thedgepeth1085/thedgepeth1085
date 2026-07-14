@@ -35,7 +35,3 @@ I design and build resilient network and cloud infrastructures with a focus on A
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-## 📊 GitHub Stats
-
-![Terrance's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thedgepeth1085&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thedgepeth1085&layout=compact&theme=tokyonight)
