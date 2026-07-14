@@ -1,23 +1,28 @@
-# Terrance | Senior Network Engineer / Cloud Architect
+# Hi, I'm Terrance 👋  
+**Senior Network Engineer | Cloud Architect | Owner of Designer Technologies LLC**
 
-## 🛠️ Core Competencies
-- AWS VPC, IGW, NAT, TGW, PrivateLink  
-- Azure networking, ExpressRoute  
-- DNS (Azure DNS, BIND, Windows DNS, DNSSEC)  
-- Network architecture (Cisco CCNP-level)  
+I design and build resilient network and cloud infrastructures with a focus on AWS, Azure, automation, and high‑availability architectures. I also run Designer Technologies LLC, delivering IT consulting, cloud migrations, and small‑business infrastructure solutions.
 
-## 🧪 Current Work
-- Building reusable Terraform modules for AWS  
-- Designing hybrid cloud architectures  
-- Automating cloud deployments for SMB clients  
+## 🚀 What I Do
+- Cloud networking (AWS + Azure)
+- VPC design, Transit Gateway, hybrid networking
+- Terraform IaC for scalable deployments
+- Enterprise routing, switching, firewalls
+- DNS architecture (Azure DNS, BIND, Windows DNS)
+
+## 🛠️ Tech Stack
+- **Cloud:** AWS, Azure  
+- **Infra:** Terraform, Ansible, Docker  
+- **Networking:** Cisco, Fortinet, Palo Alto  
+- **Languages:** Python, powershell 
+
+## 📈 Current Goals
+- AWS Solutions Architect Certification  
+- Growing Designer Technologies LLC  
+- Building cloud‑native automation frameworks  
+
+## 📫 Connect With Me
+- Website: designertechnologies.net  
+- Email: info@designertechnologies.net  
 
 
-## 📚 Learning
-- AWS Solutions Architect  
-- Advanced Terraform patterns  
-- Cloud-native monitoring
-- Terraform modules & multi‑env deployments 
-
-## 🔗 Links
-- Designer Technologies LLC  
-- Email: thedgepeth@designertechnologies.net  
