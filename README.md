@@ -1,16 +1,23 @@
-## Hi there 👋
+# Terrance | Senior Network Engineer / Cloud Architect
 
-<!--
-**thedgepeth1085/thedgepeth1085** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Core Competencies
+- AWS VPC, IGW, NAT, TGW, PrivateLink  
+- Azure networking, ExpressRoute  
+- DNS (Azure DNS, BIND, Windows DNS, DNSSEC)  
+- Network architecture (Cisco CCNP-level)  
 
-Here are some ideas to get you started:
+## 🧪 Current Work
+- Building reusable Terraform modules for AWS  
+- Designing hybrid cloud architectures  
+- Automating cloud deployments for SMB clients  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📚 Learning
+- AWS Solutions Architect  
+- Advanced Terraform patterns  
+- Cloud-native monitoring
+- Terraform modules & multi‑env deployments 
+
+## 🔗 Links
+- Designer Technologies LLC  
+- Email: thedgepeth@designertechnologies.net  
