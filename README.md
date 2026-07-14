@@ -1,4 +1,4 @@
-# Hi, I'm Terrance 👋  
+# Hi, I'm Mitchell 👋  
 **Senior Network Engineer | Cloud Architect | Owner of Designer Technologies LLC**
 
 I design and build resilient network and cloud infrastructures with a focus on AWS, Azure, automation, and high‑availability architectures. I also run Designer Technologies LLC, delivering IT consulting, cloud migrations, and small‑business infrastructure solutions.
