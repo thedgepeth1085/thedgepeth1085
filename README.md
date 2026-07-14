@@ -82,6 +82,37 @@ resource "aws_route_table_association" "public_assoc" {
   route_table_id = aws_route_table.public_rt.id
 }
 
+## 📘 What This Code Is
+
+This profile includes examples written in **Markdown** and **Terraform (HCL)** to showcase my AWS cloud networking and Infrastructure‑as‑Code skills.
+
+### 📝 Markdown (GitHub Profile Formatting)
+All sections, headings, badges, and descriptions in this README are written in **Markdown**, which GitHub automatically formats into a clean visual layout.  
+Markdown is used for:
+- Headings (`#`, `##`)
+- Lists (`- item`)
+- Badges (image links)
+- Section dividers (`---`)
+- Code blocks (triple backticks)
+
+### ☁️ Terraform for AWS (Infrastructure as Code)
+The AWS example in this profile is written in **Terraform**, using **HCL (HashiCorp Configuration Language)**.  
+Terraform is used to:
+- Build AWS cloud networks (VPCs, subnets, route tables)
+- Automate infrastructure deployments
+- Create repeatable, version-controlled cloud environments
+- Enforce consistent architecture across dev/stage/prod
+
+### 🔧 AWS Example (Terraform)
+Shows how to build:
+- VPC  
+- Subnets  
+- Internet Gateway  
+- Route tables  
+- Public routing  
+
+This example demonstrates my ability to design and automate AWS cloud networking using Infrastructure as Code.
+
 
 
 
